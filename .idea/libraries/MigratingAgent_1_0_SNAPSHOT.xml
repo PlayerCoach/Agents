@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MigratingAgent-1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MigratingAgent/target/MigratingAgent-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
